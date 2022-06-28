@@ -1,5 +1,5 @@
 # myTunes website
-Creating a personal portfolio using 
+Creating a myTunes-website using 
 HTML CSS
 
 
