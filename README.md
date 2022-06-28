@@ -1,6 +1,7 @@
 # myTunes website
-html Css project
-![image]()
+Creating a personal portfolio using 
+HTML CSS
+
 
 ## Technologies used
 
@@ -22,7 +23,6 @@ html Css project
 -   Linkedin: [linkedin](https://www.linkedin.com/in/kamogelo-ben-mokwana)
 -   Email: <Kamogelomokwana@outlook.com>
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -36,3 +36,4 @@ Give a ⭐ if you like this project!
 ## 📝 License
 
 This project is [MiT](https://opensource.org/licenses/MIT) licensed
+
